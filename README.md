@@ -1,5 +1,7 @@
 # nuxt-twitter
-клон твиттера  
+
+twiiter clone  
+
 ![gif](example.gif)
 
 ## Build Setup
